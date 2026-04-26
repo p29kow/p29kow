@@ -16,7 +16,7 @@ I am a versatile **Information Technology professional** with a strong foundatio
 * **DevOps & Tools:** Git, Docker, Kubernetes, Terraform, Prometheus, Grafana.
 
 ## 📈 Areas of Expertise
-* **Data Analysis & Science:** Quantified performance and detected system leakages for major organizations.
+* **Data Analysis & Science:** Quantified performance and detected system leakages for major organisations.
 * **Cybersecurity:** Skilled in ethical hacking and computer forensics to protect digital assets.
 * **Database Administration:** Ensuring data integrity through well-defined constraints and inheritance patterns.
 * **Mobile Development:** Interest and experience in Android and cross-platform development.
