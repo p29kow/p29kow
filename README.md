@@ -1,26 +1,26 @@
-# Hi there, I'm Paakow Amponsah-Bediako! [cite_start]👋 [cite: 1]
+# Hi there, I'm Paakow Amponsah-Bediako! 👋
 
-[cite_start]I am a versatile **Information Technology professional** with a strong foundation in **Software Engineering**, **Data Science**, and **Cybersecurity**[cite: 6, 8, 11]. [cite_start]I specialize in building robust backend systems, designing efficient databases, and extracting actionable insights from complex datasets[cite: 9, 20].
+I am a versatile **Information Technology professional** with a strong foundation in **Software Engineering**, **Data Science**, and **Cybersecurity**. I specialize in building robust backend systems, designing efficient databases, and extracting actionable insights from complex datasets.
 
 ## 🚀 About Me
-* [cite_start]🎓 Currently pursuing an **MSc. in Information Technology** at Open University Malaysia[cite: 47, 48].
-* [cite_start]💼 Former **MFS Revenue Assurance Analyst** at AT Ghana, where I implemented fraud detection and data reconciliation solutions[cite: 19, 21, 24].
-* [cite_start]🛠️ Experienced in developing full-stack web applications and modernizing legacy database architectures[cite: 28, 29, 31].
-* [cite_start]🌐 **Current Focus:** In addition to my core software skills, I have begun exploring **Network Programming** and infrastructure[cite: 58].
+* 🎓 Currently pursuing an **MSc. in Information Technology** at Open University Malaysia.
+* 💼 Former **MFS Revenue Assurance Analyst** at AT Ghana, where I implemented fraud detection and data reconciliation solutions.
+* 🛠️ Experienced in developing full-stack web applications and modernizing legacy database architectures.
+* 🌐 **Current Focus:** In addition to my core software skills, I have begun exploring **Network Programming** and infrastructure to broaden my technical horizons.
 
-## [cite_start]🛠 Tech Stack [cite: 12]
-* [cite_start]**Languages:** Python, TypeScript, JavaScript, Rust, Kotlin, Julia, C#[cite: 13].
-* [cite_start]**Backend & Web:** Node.js (NestJS, Express, Koa, Fastify), Rust (Actix-Web), Python (Django, Flask), .NET[cite: 15].
-* [cite_start]**Data Science:** Polars, NumPy, Pandas, TensorFlow, Seaborn, SciPy[cite: 15].
-* [cite_start]**Databases:** Postgres, MySQL, MSSQL, MongoDB, Redis, Apache Cassandra[cite: 14].
-* [cite_start]**DevOps & Tools:** Docker, Kubernetes, Terraform, Git, Prometheus, Grafana[cite: 17].
+## 🛠 Tech Stack
+* **Languages:** Python, TypeScript, JavaScript, Rust, Kotlin, Julia, C#.
+* **Backend & Web:** Node.js (NestJS, Express, Koa, Fastify), Rust (Actix-Web), Python (Django, Flask), .NET.
+* **Data Science:** Polars, NumPy, Pandas, TensorFlow, Seaborn, SciPy.
+* **Databases:** Postgres, MySQL, MSSQL, MongoDB, Redis, Apache Cassandra.
+* **DevOps & Tools:** Git, Docker, Kubernetes, Terraform, Prometheus, Grafana.
 
-## [cite_start]📈 Areas of Expertise [cite: 5]
-* [cite_start]**Data Analysis & Science:** Quantifying performance and detecting system leakages[cite: 6, 23, 41].
-* [cite_start]**Cybersecurity:** Ethical hacking and computer forensics to protect digital assets[cite: 7, 11].
-* [cite_start]**Database Administration:** Ensuring data integrity through well-defined constraints and inheritance patterns[cite: 9, 30].
-* [cite_start]**Mobile Development:** Experience and interest in Android and cross-platform development[cite: 56, 57].
+## 📈 Areas of Expertise
+* **Data Analysis & Science:** Quantified performance and detected system leakages for major organizations.
+* **Cybersecurity:** Skilled in ethical hacking and computer forensics to protect digital assets.
+* **Database Administration:** Ensuring data integrity through well-defined constraints and inheritance patterns.
+* **Mobile Development:** Interest and experience in Android and cross-platform development.
 
 ## 📫 Connect with Me
-* [cite_start]**LinkedIn:** [linkedin.com/in/p29kow](https://www.linkedin.com/in/p29kow) [cite: 4]
-* [cite_start]**Email:** [paakowbediako@yahoo.com](mailto:paakowbediako@yahoo.com) [cite: 2]
+* **LinkedIn:** [linkedin.com/in/p29kow](https://www.linkedin.com/in/p29kow)
+* **Email:** [paakowbediako@yahoo.com](mailto:paakowbediako@yahoo.com)
