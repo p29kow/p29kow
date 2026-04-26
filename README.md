@@ -23,4 +23,4 @@ I am a versatile **Information Technology professional** with a strong foundatio
 
 ## 📫 Connect with Me
 * **LinkedIn:** [linkedin.com/in/p29kow](https://www.linkedin.com/in/p29kow)
-* **Email:** [paakowbediako@yahoo.com](mailto:paakowbediako@yahoo.com)
+<!-- * **Email:** [paakowbediako@yahoo.com](mailto:paakowbediako@yahoo.com) -->
